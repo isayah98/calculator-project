@@ -1,0 +1,53 @@
+body{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    background-color: white;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 20px;
+    position: absolute;
+    border: 3px solid black;
+    top: 30%;
+    right: 45%;
+}
+.operations{
+    text-align: center;
+    background-color: dimgray;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+    color: white;
+}
+.basic-op{
+    background-color: darkorange;
+    color: white;
+    font: bold;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px  white;
+}
+.display{
+    padding-left: 10px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+.oper-row{
+    margin-bottom: 5px;
+}
+.oper-row .basic-opera{
+    background-color: darkkhaki;
+    border-radius: 5px;
+    width: 40px;
+}
+.basic-opera-special{
+    background-color: darkkhaki;
+    border-radius: 5px;
+    width: 40px;
+    height: 70px;
+}
+
+
